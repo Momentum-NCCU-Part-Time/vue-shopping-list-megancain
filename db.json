@@ -1,0 +1,15 @@
+{
+    "lists": [
+      {
+        "id": 1,
+        "title": "Sample shopping list",
+        "items": [
+          {
+            "id": 1,
+            "item-name": "toilet paper",
+            "purchased": false
+          }]
+      }]
+          }
+     
+        
